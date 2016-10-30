@@ -1,0 +1,2 @@
+# ultimotheme
+Magento Ultimo Theme
